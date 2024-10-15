@@ -1,7 +1,7 @@
 Lightning
 =========
 
-One way to [simulate lightning is with a random walk](https://docs.google.com/presentation/d/1FVMky4RCdS__va05BmkkpeWqi83gpj458w98yif5H6A/edit?usp=sharing). In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find sides 27 to 58 of the [MathDotRandom](https://docs.google.com/presentation/d/1QIDFHsWJCcBlUY0kE6nmFPAsnpixxL_TZhuGlXAoKuA/edit?usp=sharing) slide presentation helpful.  
+One way to [simulate lightning is with a random walk](https://docs.google.com/presentation/d/1FVMky4RCdS__va05BmkkpeWqi83gpj458w98yif5H6A/edit?usp=sharing). In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find sides 27 to 58 of the [MathDotRandom](https://docs.google.com/presentation/d/1tEYZ90mLewRI-mGb6Hb46uVFLRiKi-nwknBmtxVP8do/edit?usp=sharing) slide presentation helpful.  
 
 Suggested steps to start the assignment
 ------------------------------------------
@@ -21,7 +21,7 @@ Suggested steps to start the assignment
 5. `void mousePressed()` needs to set `startX`,`startY`,`endX`,`endY` back to their original values. 
 5. When you are happy with the program, copy and paste it back into GitHub
 5. You will also need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub
-6. The final step is to submit the URL for your website to google classroom. You can find more specific instructions with pictures on how to submit your assignment on slides 50 to 52 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation. Don't hesitate to ask for help if your aren't sure how something is suppose to work.  
+6. The final step is to submit the URL for your website to Canvas. You can find more specific instructions with pictures on how to submit your assignment on slides 20 to 24 of the [apjavaProcessing](https://docs.google.com/presentation/d/1FIV9P78JnVVpMvpW-TOuUO0uFG8pLYE3kHGJubOZXEE/edit?usp=sharing) slide presentation. Don't hesitate to ask for help if your aren't sure how something is suppose to work.  
 
 
 Program requirements
