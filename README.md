@@ -5,7 +5,7 @@ One way to [simulate lightning is with a random walk](https://docs.google.com/pr
 
 Suggested steps to start the assignment
 ------------------------------------------
-1. Sign up into your [GitHub account](https://github.com)
+1. Sign into your [GitHub account](https://github.com)
 1. Then *fork* [this repository](https://github.com/ATC-APCSA/Lightning) 
 2. Open the Lightning.pde file. Copy and paste the code into Processing.
 3. At the top of the program in Processing, declare 4 `int` variables `startX`, `startY`, `endX` and `endY`. Initialize `startX` to 0, `startY` to 150, `endX` to 0 and `endY` to 150
