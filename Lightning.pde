@@ -1,3 +1,8 @@
+/*Yailyn Cera Primero 
+November 1,2024
+ The purpose is to be able to use Math.random() in Java to generate random numbers within specified ranges and apply these random values to create lightning
+*/
+
 int startX = 200;
 int startY = 0;
 int endX = 200;
